@@ -1,0 +1,48 @@
+# Chirayu Bhatt
+
+> Chirayu Bhatt is a software architect and Technology Head based in Vadodara, Gujarat, India, with over 26 years of experience in IT. He specializes in PHP and LAMP web application development and service oriented architectures, and is experienced with Agentic AI, Retrieval-Augmented Generation (RAG) and integrating large language models (LLMs) into web applications.
+
+Chirayu.im is his personal profile site. Contact: contact@chirayu.im
+
+## AI expertise
+
+- Agentic AI: AI agents that plan, use tools and complete multi-step business tasks
+- Retrieval-Augmented Generation (RAG): answers grounded in an organisation's own documents and data, using embeddings and vector databases
+- Generative AI and LLM integration into new and existing PHP and web applications through APIs
+- Prompt engineering
+- Model Context Protocol (MCP): connecting AI assistants to business systems and live data
+- Machine learning and big data analytics
+
+## Software expertise
+
+- PHP, Apache, MySQL and Linux (LAMP)
+- Service oriented architectures, web services, XML and JSON
+- Cloud hosted Software as a Service (SaaS)
+- Online payment gateways and CRM applications
+- B2B and B2C web applications for real estate, job portals, automotive, social networks, classifieds, auctions, travel and hospitality
+
+## Experience
+
+- Technology Head, CBbytes, Vadodara (August 2022 - present)
+- Technology Lead, Avista Web Technologies pvt ltd, Vadodara (June 2009 - August 2022)
+- Sr. Software Engineer, Rishabh software pvt ltd, Vadodara (Feb 2007 - June 2009)
+- Sr. Programmer Analyst, V2 Solutions pvt ltd, Mumbai (Oct 2005 - Feb 2007)
+- Software Engineer, Vigorsoft pvt ltd, Vadodara (Oct 2004 - June 2005)
+- Trainee Software Programmer, Computer center, M S University, Vadodara (Apr 2002 - Oct 2004)
+
+## Education
+
+- Post Graduate Diploma in Computer Applications, The Maharaja Sayajirao University of Baroda, Vadodara
+- Bachelor of Science in Statistics, The Maharaja Sayajirao University of Baroda
+
+## Services
+
+- Consultation and guidance for IT students and their projects
+- Corporate training on specific IT skill sets
+- Discussion of software and AI projects
+
+## Pages
+
+- [Home](https://chirayu.im/): introduction, AI expertise, skills and competencies
+- [Profile Summary](https://chirayu.im/profilesummary): full work experience, strengths and achievements
+- [About](https://chirayu.im/about): background, technical skills and services
